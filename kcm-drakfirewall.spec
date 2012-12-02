@@ -5,6 +5,7 @@ Group:          Graphical desktop/KDE
 Summary:        A KDE Control Module for launching drakfirewall
 Version:        1.0
 Release:        4
+BuildArch:      noarch
 Source0:        %{name}-%{version}.tar.gz
 
 %description
