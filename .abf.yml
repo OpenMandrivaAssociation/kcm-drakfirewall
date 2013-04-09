@@ -1,4 +1,2 @@
-removed_sources:
-  kcm-drakfirewall-1.0.tar.gz: e53bdc2be53036b1859b06c7f750be0cdf1f9e97
 sources:
-  kcm-drakfirewall-1.1.tar.gz: 337f56a052a1dd4bd8655b86b594cca88cc81ac4
+  kcm-drakfirewall-1.0.tar.gz: e53bdc2be53036b1859b06c7f750be0cdf1f9e97

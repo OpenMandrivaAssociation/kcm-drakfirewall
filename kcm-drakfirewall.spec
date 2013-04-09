@@ -3,8 +3,8 @@ BuildRequires:  kdelibs4-devel
 License:        GPLv3+
 Group:          Graphical desktop/KDE
 Summary:        A KDE Control Module for launching drakfirewall
-Version:        1.1
-Release:        1
+Version:        1.0
+Release:        6
 BuildArch:      noarch
 Source0:        %{name}-%{version}.tar.gz
 
