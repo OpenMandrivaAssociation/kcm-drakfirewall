@@ -4,7 +4,7 @@ License:        GPLv3+
 Group:          Graphical desktop/KDE
 Summary:        A KDE Control Module for launching drakfirewall
 Version:        1.0
-Release:        8
+Release:        9
 BuildArch:      noarch
 Source0:        %{name}-%{version}.tar.gz
 
